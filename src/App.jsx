@@ -19,8 +19,6 @@ function App() {
       <Contact />
       <BackToTop />
       <Footer />
-
-      <h1>Nexora Business</h1>
     </div>
   );
 }
