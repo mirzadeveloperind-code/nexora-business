@@ -4,7 +4,7 @@ function About() {
 
       <div className="about-image">
         <img
-          src="/images/abt1.jpeg"
+          src={`${import.meta.env.BASE_URL}images/abt1.jpeg`}
           alt="Business team collaborating in an office"
         />
       </div>

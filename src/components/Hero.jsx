@@ -31,7 +31,7 @@ function Hero() {
 
       <div className="hero-image">
         <img
-          src="/images/img5.jpeg"
+          src={`${import.meta.env.BASE_URL}images/img5.jpeg`}
           alt="Business team working together"
         />
       </div>
